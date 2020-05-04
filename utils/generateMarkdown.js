@@ -104,7 +104,7 @@ function generateMarkdown(userProfile, userAnswers) {
 
 ![](${userProfile.avatar_url})
 
-
+---
 
 ## Description 
 ${userAnswers.description}
@@ -125,16 +125,26 @@ ${userAnswers.description}
 ## Installation
 ${userAnswers.installation}
 
+---
+
 ## Usage
 ${userAnswers.usage}
+
+---
 
 ## Contributors
 ${userAnswers.contributors}
 
+---
+
 ${userProfile.email}
+
+---
 
 ## License
 ISC License
+
+---
 
 Copyright (c)  ${userProfile.name}
 
