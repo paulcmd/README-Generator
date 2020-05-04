@@ -53,7 +53,7 @@ const questions = [
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
         if (err) throw err;
-        console.log('Your readme file has been created');
+        console.log('Your readme has been generated');
     });
 }
 

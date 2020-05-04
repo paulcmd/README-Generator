@@ -1,12 +1,12 @@
 
-# wer  ![badge](https://img.shields.io/static/v1?label=HelloWorld&message=badge&color=green)
+# ReadME Generator  ![badge](https://img.shields.io/static/v1?label=HelloWorld&message=readmegen&color=green)
 
 ![](https://avatars1.githubusercontent.com/u/10469184?v=4)
 
-
+---
 
 ## Description 
-wr
+Program that generates a readme from users's input
 
 ---
 
@@ -22,18 +22,24 @@ wr
 ---
 
 ## Installation
-wr
+Run npm install and all required dependencies
+
+---
 
 ## Usage
-wr
+Run program and answer questions as required
+
+---
 
 ## Contributors
-sdf
+Paul Wachira
 
-null
+---
 
 ## License
 ISC License
+
+---
 
 Copyright (c)  Paul
 
@@ -48,4 +54,17 @@ ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
 WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+## Resources:
+
+---
+
+## Tests:
+
+---
+
+## Questions:
+For any questions, please contact:
+
+![null] 
 
